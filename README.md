@@ -1,5 +1,5 @@
 
-# 🧊 3D Transformations in C++ using BGI Graphics
+# 🧊 3D Transformations in C++ using BGI Graphic
 
 This project demonstrates **basic 3D transformation operations** — **Translation**, **Scaling**, and **Rotation** — on a simple object (a bar/rectangle) using the **<graphics.h>** BGI library in C++.
 
